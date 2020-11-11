@@ -1,0 +1,10 @@
+1) readme
+2) gitignore
+3) we have runner (check it)
+4) все скип - кор лэер?
+5) run from idea.
+6) create testng.xml
+    testng maven run from cmd
+    (mvn clean test -Dsurefire.suiteXmlFiles=src/test/resources/testng.xml)
+    surefire-plugin (maven surefire plugin pom testng) (https://maven.apache.org/surefire/maven-surefire-plugin/examples/testng.html)
+    as application
